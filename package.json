@@ -1,0 +1,13 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "Non-transitive game implemented in JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
